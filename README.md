@@ -90,8 +90,8 @@ These are CodePen versions of the projects.
 > [!NOTE]
 > Section 4 could not be made in CodePen.
 
-- Section 1: (Coming Soon)
+- Section 1: [https://codepen.io/Mark-Roland-Alueta/pen/ExGZOLm](https://codepen.io/Mark-Roland-Alueta/pen/ExGZOLm)
 
 - Section 2:
-  - Integration #1: (Coming Soon)
-  - Integration #2: (Coming Soon)
+  - Integration #1: [https://codepen.io/Mark-Roland-Alueta/pen/KKbmvvV](https://codepen.io/Mark-Roland-Alueta/pen/KKbmvvV)
+  - Integration #2: [https://codepen.io/Mark-Roland-Alueta/pen/XWoRaeg](https://codepen.io/Mark-Roland-Alueta/pen/XWoRaeg)
