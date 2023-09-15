@@ -84,6 +84,10 @@ In future iterations or with more time, the following improvements could be made
 - Enhance the styling and user interface to make it more visually appealing.
 - Please note that this README is a high-level overview of the project. For more detailed information, please refer to the code comments and the code itself.
 
+## CodePen Link
+
+[https://codepen.io/Mark-Roland-Alueta/pen/GRPvWxB](https://codepen.io/Mark-Roland-Alueta/pen/GRPvWxB)
+
 ## That is it
 
 Thank you for reading!

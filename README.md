@@ -87,11 +87,10 @@ You can navigate to the folder and open the `README.md` file so you can read the
 
 These are CodePen versions of the projects.
 
-> [!NOTE]
-> Section 4 could not be made in CodePen.
-
 - Section 1: [https://codepen.io/Mark-Roland-Alueta/pen/ExGZOLm](https://codepen.io/Mark-Roland-Alueta/pen/ExGZOLm)
 
 - Section 2:
   - Integration #1: [https://codepen.io/Mark-Roland-Alueta/pen/KKbmvvV](https://codepen.io/Mark-Roland-Alueta/pen/KKbmvvV)
   - Integration #2: [https://codepen.io/Mark-Roland-Alueta/pen/XWoRaeg](https://codepen.io/Mark-Roland-Alueta/pen/XWoRaeg)
+
+- Section 4: [https://codepen.io/Mark-Roland-Alueta/pen/GRPvWxB](https://codepen.io/Mark-Roland-Alueta/pen/GRPvWxB)
